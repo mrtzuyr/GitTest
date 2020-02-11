@@ -10,6 +10,7 @@ public class TestClass {
 		
 		System.out.println("push test");
 
+<<<<<<< HEAD
 		System.out.println("heyyyyyy");
 		
 		
@@ -17,6 +18,11 @@ public class TestClass {
 		
 		
 		System.out.println("olacak");
+=======
+		
+		
+		System.out.println("hello");
+>>>>>>> 8bbe25204cc13ee861363bc33ad75e481db2b590
 		
 	}
 }
