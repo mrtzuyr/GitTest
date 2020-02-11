@@ -11,8 +11,12 @@ public class TestClass {
 		System.out.println("push test");
 
 
+<<<<<<< Updated upstream
 		System.out.println("hmmjm test");
 		
 		System.out.println("pasddh test");
+=======
+		System.out.println("haydi bee");
+>>>>>>> Stashed changes
 	}
 }
