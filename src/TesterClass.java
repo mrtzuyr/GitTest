@@ -7,5 +7,11 @@ public class TesterClass {
 		//Abv sizin
 		System.out.println("offf");
 		
+		
+		
+		
+		System.out.println("Olur umarim");
+		
+		
 	}
 }
